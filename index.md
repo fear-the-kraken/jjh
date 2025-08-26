@@ -6,7 +6,11 @@ title: Collapsible Demo
 # Demo: Collapsible with Image + Text
 
 <details open>
-  <summary>Example section (image left, text right)</summary>
+  <summary>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5384467" target="_blank" rel="noopener">How much money is really left on the table? Reassessing the measurement of IPO underpricing</a>
+    <span> with </span>
+    <a href="https://www.terrencemobrien.com/" target="_blank" rel="noopener">Terry O'Brien</a>
+  </summary>
   <div class="panel">
     <div class="row">
       <figure class="media">
