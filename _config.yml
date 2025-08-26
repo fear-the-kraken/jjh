@@ -1,2 +1,7 @@
-title: Collapsible Demo
-description: Jekyll + GitHub Pages + details/summary
+title: JJH Demo Site
+description: A GitHub Pages project site with Jekyll and custom collapsibles
+baseurl: "/jjh"        # the repo name, with a leading slash
+url: "https://USERNAME.github.io"   # replace USERNAME with your GitHub username
+
+markdown: kramdown
+theme: minima          # optional; remove if you only want your own layout/css
