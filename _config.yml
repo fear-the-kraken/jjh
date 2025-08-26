@@ -4,4 +4,3 @@ baseurl: "/jjh"        # the repo name, with a leading slash
 url: "https://fear-the-kraken.github.io"   # replace USERNAME with your GitHub username
 
 markdown: kramdown
-theme: minima          # optional; remove if you only want your own layout/css
